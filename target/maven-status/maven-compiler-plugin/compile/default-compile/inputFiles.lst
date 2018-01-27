@@ -1,0 +1,12 @@
+E:\workspace\decisiontree\src\main\java\org\anomalydetection\KNN\KNearestNeighbor.java
+E:\workspace\decisiontree\src\main\java\org\anomalydetection\normalize\Normalize.java
+E:\workspace\decisiontree\src\main\java\org\anomalydetection\naivebayes\NBayes.java
+E:\workspace\decisiontree\src\main\java\org\anomalydetection\kMeans\KMeans.java
+E:\workspace\decisiontree\src\main\java\org\anomalydetection\oneclassSVM\OneClassSVM.java
+E:\workspace\decisiontree\src\main\java\org\anomalydetection\traintestsplit\TrainTestSplit.java
+E:\workspace\decisiontree\src\main\java\org\anomalydetection\csv2arff\ArffConversion.java
+E:\workspace\decisiontree\src\main\java\org\anomalydetection\AppManagement\AnomalyDetectionApp.java
+E:\workspace\decisiontree\src\main\java\org\anomalydetection\AppManagement\AnomalyDetectionAppManagement.java
+E:\workspace\decisiontree\src\main\java\org\anomalydetection\decisiontree\DecisionTree.java
+E:\workspace\decisiontree\src\main\java\org\anomalydetection\AppManagement\AnomalyDetectionAppMBean.java
+E:\workspace\decisiontree\src\main\java\org\anomalydetection\classify\Classification.java
